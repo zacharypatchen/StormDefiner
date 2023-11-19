@@ -42,4 +42,4 @@ The program consists of a `main.cpp` file containing the `StormAnalyzer` class a
 
 ## Author
 
-By Zachary Patchen
+Zachary Patchen
